@@ -1,0 +1,4 @@
+--compilers js:babel-register
+--recursive
+--reporter mochawesome
+--reporter-options reportDir=test/results/mochawesome,inlineAssets=true,quiet=true,overwrite=false
