@@ -105,3 +105,7 @@ This document contains the instructions to setup the environment and the other p
 * Hooks: the `before()` and `after()` methods are initialize
 * Test Suite: `describe()`
 * Test Specs: `it()`
+
+### Steps to Execute the script
+
+* In order to run the script. you need to go to the root directory of the project via terminal and then type in npm run test:smoke:android 
